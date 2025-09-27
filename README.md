@@ -1,23 +1,23 @@
-```markdown
-# Hi there 👋
+<h1 align="left">Hi there 👋</h1>
 
-I’m **Jacopo Rialti** — MSc student in **Computer Engineering (Automation & Intelligent CPS)** at *Politecnico di Torino*.
+<p align="left">
+  <a href="https://www.linkedin.com/in/jacopo-rialti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/jacopo_ria/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="./CV.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
+</p>
+
+<p>
+I’m <strong>Jacopo Rialti</strong> — MSc student in <strong>Computer Engineering (Automation & Intelligent CPS)</strong> at <em>Politecnico di Torino</em>.
+</p>
 
 ---
 
 ### 🎓 About me
-- Focus: **Control systems, robotics, aerospace dynamics, ML**
-- Toolbox: `Python` · `MATLAB/Simulink` · `C` · `C++` · `Rust` · `JavaScript/React/Node.js` · `HTML/CSS` · `TeX/LaTeX` · `Jupyter Notebook`
-- Passion: bridging **theory and code** with clean, reusable templates
+- Focus: <strong>Control systems, robotics, aerospace dynamics, ML</strong>  
+- Toolbox: <code>Python</code> · <code>MATLAB/Simulink</code> · <code>C</code> · <code>C++</code> · <code>Rust</code> · <code>JavaScript/React/Node.js</code> · <code>HTML/CSS</code> · <code>TeX/LaTeX</code> · <code>Jupyter Notebook</code>  
+- Passion: bridging <strong>theory and code</strong> with clean, reusable templates
 
 ---
 
-### 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacopo-rialti/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jacopo_ria/)  
-[![CV](https://img.shields.io/badge/CV-PDF-green)](./CV.pdf)
-
----
-
-📌 *Pinned projects on my profile show what I’m experimenting with: control, ML, and small web apps.*
+📌 <em>Pinned projects on my profile show what I’m experimenting with: control, ML, and small web apps.</em>
 ```
