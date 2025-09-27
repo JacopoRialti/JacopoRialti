@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="left">Hi, I'm Jacopo Rialti 👋</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jacopo-rialti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
