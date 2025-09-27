@@ -18,4 +18,3 @@ I’m <strong>Jacopo Rialti</strong> — MSc student in <strong>Computer Enginee
 ---
 
 📌 <em>Pinned projects on my profile show what I’m experimenting with: control, ML, and small web apps.</em>
-```
