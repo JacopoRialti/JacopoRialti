@@ -15,8 +15,6 @@ I’m <strong>Jacopo Rialti</strong> — MSc student in <strong>Computer Enginee
 ### 🎓 About me
 - Focus: <strong>Control systems, robotics, aerospace dynamics, ML</strong>  
 - Toolbox: <code>Python</code> · <code>MATLAB/Simulink</code> · <code>C</code> · <code>C++</code> · <code>Rust</code> · <code>JavaScript/React/Node.js</code> · <code>HTML/CSS</code> · <code>TeX/LaTeX</code> · <code>Jupyter Notebook</code>  
-- Passion: bridging <strong>theory and code</strong> with clean, reusable templates
-
 ---
 
 📌 <em>Pinned projects on my profile show what I’m experimenting with: control, ML, and small web apps.</em>
